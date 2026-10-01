@@ -1,0 +1,21 @@
+let VERBS = [
+	"Hitting",
+	"Genuinely Communicating Through The Moon",
+	"Smoking",
+	"Sitting",
+	"Standing",
+	"Thinking",
+	"Aura Farming",
+	"Screaming",
+	"Listening",
+	"Sleeping",
+	"Reading",
+	"Looking",
+	"Locked In",
+	"Eating",
+	"Cooking",
+	"Dressed Up As",
+	"As A Magical Girl",
+	"In The Stone World",
+	"As A Stand User"
+];

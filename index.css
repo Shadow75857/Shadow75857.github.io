@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+
+	background-color: #333355;
+	color: white;
+}
+
+li {
+	font-size: 16pt;
+}
+
+ul {
+	margin-left: 50px;
+	margin-top: 50px;
+}
