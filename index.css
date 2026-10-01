@@ -2,8 +2,9 @@
 	margin: 0;
 	padding: 0;
 
-	background-color: #333355;
+	background-color: #11111A;
 	color: white;
+	font-family: sans-serif;
 }
 
 li {
@@ -11,6 +12,11 @@ li {
 }
 
 ul {
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+#main {
 	margin-left: 50px;
 	margin-top: 50px;
 }
